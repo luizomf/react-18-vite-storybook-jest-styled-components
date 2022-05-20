@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should test 1`] = `
+.c0 {
+  background: red;
+}
+
+<h1
+  class="c0"
+>
+  Test
+</h1>
+`;
